@@ -1,0 +1,1347 @@
+
+
+[2018-05-04 19:14:36] Audio source [System Windows]: init=87211596235, through=178578303, last_start=178577823, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:14:38] CLIENT: Flushing audio, 94 ms queued, 66 ms maximum, delivery delay = 8
+[2018-05-04 19:14:38] CLIENT: Stopped flushing audio (queued samples dropped below threshold)
+[2018-05-04 19:15:09] CLIENT: Flushing audio, 54 ms queued, 52 ms maximum, delivery delay = 1
+[2018-05-04 19:15:09] CLIENT: Stopped flushing audio (queued samples dropped below threshold)
+[2018-05-04 19:15:36] Audio mix: start=87211472343, returned=181458240
+[2018-05-04 19:15:36] Audio source [System Windows]: init=87211596235, through=181458783, last_start=181458303, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:16:03] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:04] Changing record window: 001E089E
+[2018-05-04 19:16:04] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 19:16:04] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 19:16:04] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Gang Beasts"
+	"TimeSubmitted"		"1525482964"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Game polled D3D11 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"7.35488367080688477"
+	"StdDevClientBitrate"		"0.399789959192276001"
+	"AvgServerBitrate"		"12822.853515625"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0.00107223947998136282"
+	"StdDevPingMS"		"0.00675745727494359016"
+	"AvgCaptureMS"		"0.539119422435760498"
+	"StdDevCaptureMS"		"0.129560649394989014"
+	"AvgConvertMS"		"0.00313751259818673134"
+	"StdDevConvertMS"		"0.00623561907559633255"
+	"AvgEncodeMS"		"5.60671663284301758"
+	"StdDevEncodeMS"		"0.565697014331817627"
+	"AvgNetworkMS"		"1.78795826435089111"
+	"StdDevNetworkMS"		"1.62088513374328613"
+	"AvgDecodeMS"		"1.45178592205047607"
+	"StdDevDecodeMS"		"0.427473962306976318"
+	"AvgDisplayMS"		"0.022106001153588295"
+	"StdDevDisplayMS"		"0.0566776730120182037"
+	"AvgFrameMS"		"17.1955356597900391"
+	"StdDevFrameMS"		"2.06756806373596191"
+	"AvgFPS"		"61.0597190856933594"
+	"StdDevFPS"		"13.331538200378418"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"746"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 19:16:04] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:16:04] Changing record window: 00060A30
+[2018-05-04 19:16:04] >>> Switching video stream from GameOverlay_MovieStream_18620 to Desktop_MovieStream
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:16:04] >>> Capture method set to Desktop BitBlt RGB + libyuv + NVENC H264
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:16:04] >>> Capture method set to Steam D3D10 NV12 + NVENC H264
+[2018-05-04 19:16:04] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:16:09] Changing record window: 00070B34
+[2018-05-04 19:16:10] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:10] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:16:10] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:16:10] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:16:10] >>> Switching video stream from Desktop_MovieStream to GameOverlay_MovieStream_18620
+[2018-05-04 19:16:10] >>> Capture method set to Game polled D3D11 NV12 + NVENC H264
+[2018-05-04 19:16:10] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:16:11] Changing record window: 00000000
+[2018-05-04 19:16:11] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 19:16:11] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 19:16:11] >>> Switching video stream from GameOverlay_MovieStream_18620 to Desktop_MovieStream
+[2018-05-04 19:16:11] Changing record window: 0006096A
+[2018-05-04 19:16:11] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:16:11] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:16:11] >>> Capture method set to Desktop BitBlt RGB + libyuv + NVENC H264
+[2018-05-04 19:16:11] >>> Capture resolution set to 1600x900
+[2018-05-04 19:16:11] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:16:11] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:16:11] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:16:11] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:16:11] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:16:11] CLIENT: Video size: 1600x900, output size: 1920x1080
+[2018-05-04 19:16:11] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-04 19:16:11] CLIENT: Texture rect: 1600x900 at 0,0
+[2018-05-04 19:16:11] >>> Capture resolution set to 1920x1080
+[2018-05-04 19:16:11] >>> Capture method set to Desktop DWM NV12 + NVENC H264
+[2018-05-04 19:16:11] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:16:11] CLIENT: Video size: 1920x1080, output size: 1920x1080
+[2018-05-04 19:16:11] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-04 19:16:11] CLIENT: Texture rect: 1920x1080 at 0,0
+[2018-05-04 19:16:11] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:11] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:12] Changing record window: 00000000
+[2018-05-04 19:16:12] Changing record window: 0006096A
+[2018-05-04 19:16:12] Changing record window: 000A0828
+[2018-05-04 19:16:12] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:16:12] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:16:14] Changing record window: 00000000
+[2018-05-04 19:16:14] Changing record window: 000A0828
+[2018-05-04 19:16:14] Changing record window: 00070B34
+[2018-05-04 19:16:14] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:16:14] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:16:14] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:16:14] >>> Switching video stream from Desktop_MovieStream to GameOverlay_MovieStream_18620
+[2018-05-04 19:16:15] >>> Capture method set to Game polled D3D11 NV12 + NVENC H264
+[2018-05-04 19:16:15] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:16:20] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:16:20] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:20] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:22] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:16:22] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:34] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:36] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:16:36] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:36] Audio mix: start=87211472343, returned=184338720
+[2018-05-04 19:16:36] Audio source [System Windows]: init=87211596235, through=184339263, last_start=184338783, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:16:55] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:16:59] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:16:59] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:17:11] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:17:13] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:17:13] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:17:36] Audio mix: start=87211472343, returned=187219200
+[2018-05-04 19:17:36] Audio source [System Windows]: init=87211596235, through=187219743, last_start=187219263, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:17:45] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:18:36] Audio mix: start=87211472343, returned=190099200
+[2018-05-04 19:18:36] Audio source [System Windows]: init=87211596235, through=190099743, last_start=190099263, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:19:36] Audio mix: start=87211472343, returned=192979680
+[2018-05-04 19:19:36] Audio source [System Windows]: init=87211596235, through=192980223, last_start=192979743, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:19:56] CLIENT: Flushing audio, 56 ms queued, 52 ms maximum, delivery delay = 1
+[2018-05-04 19:19:56] CLIENT: Stopped flushing audio (queued samples dropped below threshold)
+[2018-05-04 19:20:36] Audio mix: start=87211472343, returned=195859680
+[2018-05-04 19:20:36] Audio source [System Windows]: init=87211596235, through=195860703, last_start=195860223, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:20:48] Changing record window: 000A0828
+[2018-05-04 19:20:48] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 19:20:48] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 19:20:48] >>> Switching video stream from GameOverlay_MovieStream_18620 to Desktop_MovieStream
+[2018-05-04 19:20:48] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Gang Beasts"
+	"TimeSubmitted"		"1525483248"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Game polled D3D11 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"7.82296419143676758"
+	"StdDevClientBitrate"		"1.0755990743637085"
+	"AvgServerBitrate"		"13871.57421875"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0.000447144062491133809"
+	"StdDevPingMS"		"0.00343267526477575302"
+	"AvgCaptureMS"		"0.753064990043640137"
+	"StdDevCaptureMS"		"0.107473835349082947"
+	"AvgConvertMS"		"0.00528468424454331398"
+	"StdDevConvertMS"		"0.00848472863435745239"
+	"AvgEncodeMS"		"10.4808254241943359"
+	"StdDevEncodeMS"		"0.640154659748077393"
+	"AvgNetworkMS"		"1.92214322090148926"
+	"StdDevNetworkMS"		"1.72336685657501221"
+	"AvgDecodeMS"		"1.48202884197235107"
+	"StdDevDecodeMS"		"0.419445395469665527"
+	"AvgDisplayMS"		"0.0224891025573015213"
+	"StdDevDisplayMS"		"0.0565360337495803833"
+	"AvgFrameMS"		"21.9839344024658203"
+	"StdDevFrameMS"		"1.95222306251525879"
+	"AvgFPS"		"60.0692863464355469"
+	"StdDevFPS"		"10.8326025009155273"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"733"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 19:20:48] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:20:48] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:20:48] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:20:48] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:20:48] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:20:48] >>> Capture method set to Desktop BitBlt RGB + libyuv + NVENC H264
+[2018-05-04 19:20:48] >>> Capture resolution set to 1600x900
+[2018-05-04 19:20:48] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:20:48] >>> Capture method set to Desktop DWM NV12 + NVENC H264
+[2018-05-04 19:20:48] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:20:48] CLIENT: Video size: 1600x900, output size: 1920x1080
+[2018-05-04 19:20:48] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-04 19:20:48] CLIENT: Texture rect: 1600x900 at 0,0
+[2018-05-04 19:20:51] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:20:51] >>> Capture resolution set to 1920x1080
+[2018-05-04 19:20:51] CLIENT: Video size: 1920x1080, output size: 1920x1080
+[2018-05-04 19:20:51] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-04 19:20:51] CLIENT: Texture rect: 1920x1080 at 0,0
+[2018-05-04 19:20:51] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:20:52] >>> Capture resolution set to 1600x900
+[2018-05-04 19:20:52] CLIENT: Video size: 1600x900, output size: 1920x1080
+[2018-05-04 19:20:52] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-04 19:20:52] CLIENT: Texture rect: 1600x900 at 0,0
+[2018-05-04 19:20:52] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:20:52] >>> Capture resolution set to 1920x1080
+[2018-05-04 19:20:52] CLIENT: Video size: 1920x1080, output size: 1920x1080
+[2018-05-04 19:20:52] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-04 19:20:52] CLIENT: Texture rect: 1920x1080 at 0,0
+[2018-05-04 19:20:52] Changing record window: 000100FC
+[2018-05-04 19:20:52] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:20:53] Changing record window: 00070B34
+[2018-05-04 19:20:53] >>> Switching video stream from Desktop_MovieStream to GameOverlay_MovieStream_18620
+[2018-05-04 19:20:53] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:20:53] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:20:53] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:20:55] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:20:55] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:20:56] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:00] Changing record window: 000101B0
+[2018-05-04 19:21:00] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 19:21:00] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 19:21:00] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:21:00] >>> Switching video stream from GameOverlay_MovieStream_18620 to Desktop_MovieStream
+[2018-05-04 19:21:00] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:00] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:21:00] >>> Capture method set to Desktop BitBlt RGB + libyuv + NVENC H264
+[2018-05-04 19:21:00] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:21:00] Changing record window: 000408B8
+[2018-05-04 19:21:00] >>> Capture method set to Desktop DWM NV12 + NVENC H264
+[2018-05-04 19:21:00] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:00] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:21:01] Setting target framerate: 59.94 [timing: game 10.00, capture 7.05, convert 0.20, encode 18.25, network 0.98, decode 1.47, display 0.02]
+[2018-05-04 19:21:01] CLIENT: Targeting 29.97 FPS
+[2018-05-04 19:21:01] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 19:21:01] Changing record window: 000A0828
+[2018-05-04 19:21:01] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:01] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:01] Changing record window: 000101B0
+[2018-05-04 19:21:01] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:01] Changing record window: 000C0A2A
+[2018-05-04 19:21:01] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:02] Setting target framerate: 29.97 [timing: game 10.00, capture 0.74, convert 0.00, encode 16.66, network 3.37, decode 1.60, display 0.02]
+[2018-05-04 19:21:02] CLIENT: Targeting 59.94 FPS
+[2018-05-04 19:21:02] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 19:21:03] Changing record window: 00070B34
+[2018-05-04 19:21:03] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:03] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:03] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:21:03] >>> Switching video stream from Desktop_MovieStream to GameOverlay_MovieStream_18620
+[2018-05-04 19:21:06] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:21:06] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:06] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:07] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:21:07] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:09] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:11] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:21:11] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:12] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:13] Changing record window: 000A0828
+[2018-05-04 19:21:13] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 19:21:13] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 19:21:13] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:21:13] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Gang Beasts"
+	"TimeSubmitted"		"1525483273"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Desktop DWM NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"10.3626670837402344"
+	"StdDevClientBitrate"		"0"
+	"AvgServerBitrate"		"7785.306640625"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0"
+	"StdDevPingMS"		"0"
+	"AvgCaptureMS"		"0.571803033351898193"
+	"StdDevCaptureMS"		"0.195299804210662842"
+	"AvgConvertMS"		"0.00240928237326443195"
+	"StdDevConvertMS"		"0.00571646634489297867"
+	"AvgEncodeMS"		"12.0407905578613281"
+	"StdDevEncodeMS"		"2.29833745956420898"
+	"AvgNetworkMS"		"0.921149015426635742"
+	"StdDevNetworkMS"		"1.38503539562225342"
+	"AvgDecodeMS"		"1.2785259485244751"
+	"StdDevDecodeMS"		"0.243959292769432068"
+	"AvgDisplayMS"		"0.0200773533433675766"
+	"StdDevDisplayMS"		"0.0144333690404891968"
+	"AvgFrameMS"		"39.3130645751953125"
+	"StdDevFrameMS"		"1.70728302001953125"
+	"AvgFPS"		"56.3910942077636719"
+	"StdDevFPS"		"13.5935382843017578"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"733"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 19:21:13] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:13] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:13] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:21:13] >>> Switching video stream from GameOverlay_MovieStream_18620 to Desktop_MovieStream
+[2018-05-04 19:21:13] >>> Capture method set to Desktop BitBlt RGB + libyuv + NVENC H264
+[2018-05-04 19:21:13] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:21:13] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:13] >>> Capture method set to Desktop DWM NV12 + NVENC H264
+[2018-05-04 19:21:13] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:21:14] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:16] Changing record window: 00000000
+[2018-05-04 19:21:16] Changing record window: 00080854
+[2018-05-04 19:21:16] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:16] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:17] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:17] Changing record window: 000803F4
+[2018-05-04 19:21:17] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:17] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:17] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:18] Changing record window: 00080854
+[2018-05-04 19:21:18] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:18] Changing record window: 00150AD4
+[2018-05-04 19:21:18] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:20] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:20] Changing record window: 00080854
+[2018-05-04 19:21:20] Changing record window: 000C0A30
+[2018-05-04 19:21:20] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:20] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:21] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:21] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:21] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:21] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:21] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:22] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:22] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:22] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:22] Changing record window: 000803F4
+[2018-05-04 19:21:22] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:22] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:22] Changing record window: 000208FE
+[2018-05-04 19:21:23] Changing record window: 0002092E
+[2018-05-04 19:21:25] Over 960 sample audio gap
+[2018-05-04 19:21:26] Changing record window: 000803F4
+[2018-05-04 19:21:26] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:26] Changing record window: 00090A6C
+[2018-05-04 19:21:26] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:26] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Desktop"
+	"TimeSubmitted"		"1525483286"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Desktop DWM NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"16.3019485473632813"
+	"StdDevClientBitrate"		"4.21609354019165039"
+	"AvgServerBitrate"		"5843.44140625"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0"
+	"StdDevPingMS"		"0"
+	"AvgCaptureMS"		"0.750029802322387695"
+	"StdDevCaptureMS"		"1.84704291820526123"
+	"AvgConvertMS"		"0.0135837942361831665"
+	"StdDevConvertMS"		"0.192008987069129944"
+	"AvgEncodeMS"		"5.6523289680480957"
+	"StdDevEncodeMS"		"0.449680745601654053"
+	"AvgNetworkMS"		"0.832839846611022949"
+	"StdDevNetworkMS"		"1.07687819004058838"
+	"AvgDecodeMS"		"1.28206515312194824"
+	"StdDevDecodeMS"		"0.29316478967666626"
+	"AvgDisplayMS"		"0.0189764592796564102"
+	"StdDevDisplayMS"		"0.0215187724679708481"
+	"AvgFrameMS"		"18.4566383361816406"
+	"StdDevFrameMS"		"7.21640586853027344"
+	"AvgFPS"		"61.3608932495117188"
+	"StdDevFPS"		"10.5225715637207031"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"733"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 19:21:26] >>> Capture method set to Steam D3D10 NV12 + NVENC H264
+[2018-05-04 19:21:26] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:21:26] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:21:26] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:26] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:21:32] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 19:21:32] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 19:21:33] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:21:34] Changing record window: 000C0A00
+[2018-05-04 19:21:34] >>> Capture method set to Desktop DWM NV12 + NVENC H264
+[2018-05-04 19:21:34] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:34] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:21:34] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:21:34] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:21:34] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:21:35] >>> Switching video stream from Desktop_MovieStream to GameOverlay_MovieStream_15772
+[2018-05-04 19:21:35] >>> Capture method set to Game polled D3D11 NV12 + NVENC H264
+[2018-05-04 19:21:35] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:21:36] Audio mix: start=87211472343, returned=198740160
+[2018-05-04 19:21:36] Audio source [System Windows]: init=87211596235, through=198740898, last_start=198740418, mixed=2279520, drop_before=0, drop_after=0
+[2018-05-04 19:21:48] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:49] Setting target framerate: 59.94 [timing: game 79.25, capture 0.46, convert 0.00, encode 6.55, network 0.33, decode 1.29, display 0.02 (game)]
+[2018-05-04 19:21:49] CLIENT: Targeting 59.94 FPS
+[2018-05-04 19:21:49] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 19:21:50] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:21:50] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:21:50] Setting target framerate: 59.94 [timing: game 16.94, capture 0.65, convert 0.00, encode 6.17, network 1.09, decode 1.38, display 0.02]
+[2018-05-04 19:21:50] CLIENT: Targeting 59.94 FPS
+[2018-05-04 19:21:50] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 19:22:36] Audio mix: start=87211472343, returned=201620640
+[2018-05-04 19:22:36] Audio source [System Windows]: init=87211596235, through=201621378, last_start=201620898, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:23:36] Audio mix: start=87211472343, returned=204500640
+[2018-05-04 19:23:36] Audio source [System Windows]: init=87211596235, through=204501378, last_start=204500898, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:24:36] Audio mix: start=87211472343, returned=207381120
+[2018-05-04 19:24:36] Audio source [System Windows]: init=87211596235, through=207381858, last_start=207381378, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:25:37] Audio mix: start=87211472343, returned=210261600
+[2018-05-04 19:25:37] Audio source [System Windows]: init=87211596235, through=210262338, last_start=210261858, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:26:37] Audio mix: start=87211472343, returned=213141600
+[2018-05-04 19:26:37] Audio source [System Windows]: init=87211596235, through=213142338, last_start=213141858, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:27:37] Audio mix: start=87211472343, returned=216022080
+[2018-05-04 19:27:37] Audio source [System Windows]: init=87211596235, through=216022818, last_start=216022338, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:28:37] Audio mix: start=87211472343, returned=218902080
+[2018-05-04 19:28:37] Audio source [System Windows]: init=87211596235, through=218902818, last_start=218902338, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:29:37] Audio mix: start=87211472343, returned=221782560
+[2018-05-04 19:29:37] Audio source [System Windows]: init=87211596235, through=221783298, last_start=221782818, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:30:37] Audio mix: start=87211472343, returned=224663040
+[2018-05-04 19:30:37] Audio source [System Windows]: init=87211596235, through=224663778, last_start=224663298, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:31:37] Audio mix: start=87211472343, returned=227543040
+[2018-05-04 19:31:37] Audio source [System Windows]: init=87211596235, through=227544258, last_start=227543778, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:32:37] Audio mix: start=87211472343, returned=230423520
+[2018-05-04 19:32:37] Audio source [System Windows]: init=87211596235, through=230424258, last_start=230423778, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:33:37] Audio mix: start=87211472343, returned=233304480
+[2018-05-04 19:33:37] Audio source [System Windows]: init=87211596235, through=233304738, last_start=233304258, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:34:37] Audio mix: start=87211472343, returned=236184480
+[2018-05-04 19:34:37] Audio source [System Windows]: init=87211596235, through=236185218, last_start=236184738, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:35:37] Audio mix: start=87211472343, returned=239064480
+[2018-05-04 19:35:37] Audio source [System Windows]: init=87211596235, through=239065218, last_start=239064738, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:36:37] Audio mix: start=87211472343, returned=241944480
+[2018-05-04 19:36:37] Audio source [System Windows]: init=87211596235, through=241945218, last_start=241944738, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:37:37] Audio mix: start=87211472343, returned=244824960
+[2018-05-04 19:37:37] Audio source [System Windows]: init=87211596235, through=244825698, last_start=244825218, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:38:37] Audio mix: start=87211472343, returned=247704960
+[2018-05-04 19:38:37] Audio source [System Windows]: init=87211596235, through=247705698, last_start=247705218, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:39:37] Audio mix: start=87211472343, returned=250585440
+[2018-05-04 19:39:37] Audio source [System Windows]: init=87211596235, through=250586178, last_start=250585698, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:39:37] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:39:38] Changing record window: 00090A6C
+[2018-05-04 19:39:38] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 19:39:38] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 19:39:38] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:39:38] >>> Switching video stream from GameOverlay_MovieStream_15772 to Desktop_MovieStream
+[2018-05-04 19:39:38] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 19:39:38] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 19:39:38] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Gang Beasts"
+	"TimeSubmitted"		"1525484378"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Game polled D3D11 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0.0193037409335374832"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"7.25080728530883789"
+	"StdDevClientBitrate"		"0.274066060781478882"
+	"AvgServerBitrate"		"13409.3154296875"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0.0019497330067679286"
+	"StdDevPingMS"		"0.00901187118142843246"
+	"AvgCaptureMS"		"0.677620530128479004"
+	"StdDevCaptureMS"		"0.138471156358718872"
+	"AvgConvertMS"		"0.00317014986649155617"
+	"StdDevConvertMS"		"0.00637872843071818352"
+	"AvgEncodeMS"		"5.81873798370361328"
+	"StdDevEncodeMS"		"0.678814172744750977"
+	"AvgNetworkMS"		"1.91129386425018311"
+	"StdDevNetworkMS"		"1.80050337314605713"
+	"AvgDecodeMS"		"1.51027214527130127"
+	"StdDevDecodeMS"		"0.459335803985595703"
+	"AvgDisplayMS"		"0.0235601812601089478"
+	"StdDevDisplayMS"		"0.0639184564352035522"
+	"AvgFrameMS"		"17.9632701873779297"
+	"StdDevFrameMS"		"2.2743523120880127"
+	"AvgFPS"		"61.4791831970214844"
+	"StdDevFPS"		"13.3861160278320313"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"746"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 19:39:38] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:39:38] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:39:38] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:39:38] >>> Capture method set to Desktop DWM NV12 + NVENC H264
+[2018-05-04 19:39:38] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:39:38] >>> Capture method set to Steam D3D10 NV12 + NVENC H264
+[2018-05-04 19:39:38] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:39:41] Over 960 sample audio gap
+[2018-05-04 19:40:15] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 19:40:15] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 19:40:15] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 19:40:23] Changing record window: 000808FC
+[2018-05-04 19:40:24] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Steam Big Picture"
+	"TimeSubmitted"		"1525484424"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Steam D3D10 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"7.41286945343017578"
+	"StdDevClientBitrate"		"0.467095673084259033"
+	"AvgServerBitrate"		"10367.92578125"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0"
+	"StdDevPingMS"		"0"
+	"AvgCaptureMS"		"0.637887537479400635"
+	"StdDevCaptureMS"		"0.129585981369018555"
+	"AvgConvertMS"		"0.0116268396377563477"
+	"StdDevConvertMS"		"0.454892069101333618"
+	"AvgEncodeMS"		"5.72842931747436523"
+	"StdDevEncodeMS"		"0.339808434247970581"
+	"AvgNetworkMS"		"2.19112396240234375"
+	"StdDevNetworkMS"		"1.94329988956451416"
+	"AvgDecodeMS"		"1.4308784008026123"
+	"StdDevDecodeMS"		"0.432336658239364624"
+	"AvgDisplayMS"		"0.0265402812510728836"
+	"StdDevDisplayMS"		"0.0771168768405914307"
+	"AvgFrameMS"		"17.4666767120361328"
+	"StdDevFrameMS"		"4.49955940246582031"
+	"AvgFPS"		"62.8050727844238281"
+	"StdDevFPS"		"17.4340724945068359"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"746"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 19:40:24] >>> Capture method set to Desktop DWM NV12 + NVENC H264
+[2018-05-04 19:40:24] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:40:24] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 19:40:24] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 19:40:24] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 19:40:25] >>> Switching video stream from Desktop_MovieStream to GameOverlay_MovieStream_20140
+[2018-05-04 19:40:25] >>> Capture method set to Game polled D3D11 NV12 + NVENC H264
+[2018-05-04 19:40:25] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 19:40:37] Audio mix: start=87211472343, returned=253465920
+[2018-05-04 19:40:37] Audio source [System Windows]: init=87211596235, through=253466553, last_start=253466073, mixed=2697120, drop_before=0, drop_after=0
+[2018-05-04 19:41:37] Audio mix: start=87211472343, returned=256345920
+[2018-05-04 19:41:37] Audio source [System Windows]: init=87211596235, through=256347033, last_start=256346553, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:42:37] Audio mix: start=87211472343, returned=259225920
+[2018-05-04 19:42:37] Audio source [System Windows]: init=87211596235, through=259227033, last_start=259226553, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:43:37] Audio mix: start=87211472343, returned=262106400
+[2018-05-04 19:43:37] Audio source [System Windows]: init=87211596235, through=262107033, last_start=262106553, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:44:37] Audio mix: start=87211472343, returned=264986400
+[2018-05-04 19:44:37] Audio source [System Windows]: init=87211596235, through=264987033, last_start=264986553, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:45:37] Audio mix: start=87211472343, returned=267866880
+[2018-05-04 19:45:37] Audio source [System Windows]: init=87211596235, through=267867513, last_start=267867033, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:46:37] Audio mix: start=87211472343, returned=270746880
+[2018-05-04 19:46:37] Audio source [System Windows]: init=87211596235, through=270747513, last_start=270747033, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:47:37] Audio mix: start=87211472343, returned=273627360
+[2018-05-04 19:47:37] Audio source [System Windows]: init=87211596235, through=273627993, last_start=273627513, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:48:37] Audio mix: start=87211472343, returned=276507360
+[2018-05-04 19:48:37] Audio source [System Windows]: init=87211596235, through=276507993, last_start=276507513, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:49:37] Audio mix: start=87211472343, returned=279387360
+[2018-05-04 19:49:37] Audio source [System Windows]: init=87211596235, through=279388473, last_start=279387993, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:50:37] Audio mix: start=87211472343, returned=282267840
+[2018-05-04 19:50:37] Audio source [System Windows]: init=87211596235, through=282268473, last_start=282267993, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:51:37] Audio mix: start=87211472343, returned=285148320
+[2018-05-04 19:51:37] Audio source [System Windows]: init=87211596235, through=285148953, last_start=285148473, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:52:37] Audio mix: start=87211472343, returned=288028800
+[2018-05-04 19:52:37] Audio source [System Windows]: init=87211596235, through=288029433, last_start=288028953, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:53:37] Audio mix: start=87211472343, returned=290908800
+[2018-05-04 19:53:37] Audio source [System Windows]: init=87211596235, through=290909433, last_start=290908953, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:54:37] Audio mix: start=87211472343, returned=293788800
+[2018-05-04 19:54:37] Audio source [System Windows]: init=87211596235, through=293789433, last_start=293788953, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:55:37] Audio mix: start=87211472343, returned=296668800
+[2018-05-04 19:55:37] Audio source [System Windows]: init=87211596235, through=296669913, last_start=296669433, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:56:37] Audio mix: start=87211472343, returned=299549280
+[2018-05-04 19:56:37] Audio source [System Windows]: init=87211596235, through=299549913, last_start=299549433, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 19:57:37] Audio mix: start=87211472343, returned=302429760
+[2018-05-04 19:57:37] Audio source [System Windows]: init=87211596235, through=302430393, last_start=302429913, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:58:37] Audio mix: start=87211472343, returned=305310240
+[2018-05-04 19:58:37] Audio source [System Windows]: init=87211596235, through=305310873, last_start=305310393, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 19:59:37] Audio mix: start=87211472343, returned=308190240
+[2018-05-04 19:59:37] Audio source [System Windows]: init=87211596235, through=308190873, last_start=308190393, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:00:37] Audio mix: start=87211472343, returned=311070240
+[2018-05-04 20:00:37] Audio source [System Windows]: init=87211596235, through=311070873, last_start=311070393, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:01:37] Audio mix: start=87211472343, returned=313950720
+[2018-05-04 20:01:37] Audio source [System Windows]: init=87211596235, through=313951353, last_start=313950873, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:02:37] Audio mix: start=87211472343, returned=316830720
+[2018-05-04 20:02:37] Audio source [System Windows]: init=87211596235, through=316831353, last_start=316830873, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:03:37] Audio mix: start=87211472343, returned=319711200
+[2018-05-04 20:03:37] Audio source [System Windows]: init=87211596235, through=319711833, last_start=319711353, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:04:37] Audio mix: start=87211472343, returned=322591200
+[2018-05-04 20:04:37] Audio source [System Windows]: init=87211596235, through=322591833, last_start=322591353, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:05:37] Audio mix: start=87211472343, returned=325471200
+[2018-05-04 20:05:37] Audio source [System Windows]: init=87211596235, through=325471833, last_start=325471353, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:06:37] Audio mix: start=87211472343, returned=328351200
+[2018-05-04 20:06:37] Audio source [System Windows]: init=87211596235, through=328351833, last_start=328351353, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:07:37] Audio mix: start=87211472343, returned=331231680
+[2018-05-04 20:07:37] Audio source [System Windows]: init=87211596235, through=331232313, last_start=331231833, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:08:37] Audio mix: start=87211472343, returned=334112160
+[2018-05-04 20:08:37] Audio source [System Windows]: init=87211596235, through=334112793, last_start=334112313, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:09:37] Audio mix: start=87211472343, returned=336992160
+[2018-05-04 20:09:37] Audio source [System Windows]: init=87211596235, through=336992793, last_start=336992313, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:10:37] Audio mix: start=87211472343, returned=339872640
+[2018-05-04 20:10:37] Audio source [System Windows]: init=87211596235, through=339873273, last_start=339872793, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:11:37] Audio mix: start=87211472343, returned=342753120
+[2018-05-04 20:11:37] Audio source [System Windows]: init=87211596235, through=342753753, last_start=342753273, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:12:37] Audio mix: start=87211472343, returned=345633120
+[2018-05-04 20:12:37] Audio source [System Windows]: init=87211596235, through=345633753, last_start=345633273, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:13:10] Setting target framerate: 59.94 [timing: game 49.84, capture 0.52, convert 0.00, encode 5.47, network 0.44, decode 1.14, display 0.02 (game)]
+[2018-05-04 20:13:10] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:13:10] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:13:11] Setting target framerate: 59.94 [timing: game 33.02, capture 0.89, convert 0.00, encode 5.92, network 1.26, decode 1.39, display 0.02]
+[2018-05-04 20:13:11] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:13:11] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:13:37] Audio mix: start=87211472343, returned=348513120
+[2018-05-04 20:13:37] Audio source [System Windows]: init=87211596235, through=348513753, last_start=348513273, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:14:37] Audio mix: start=87211472343, returned=351393120
+[2018-05-04 20:14:37] Audio source [System Windows]: init=87211596235, through=351394233, last_start=351393753, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:15:37] Audio mix: start=87211472343, returned=354273600
+[2018-05-04 20:15:37] Audio source [System Windows]: init=87211596235, through=354274233, last_start=354273753, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:16:22] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:16:25] Changing record window: 00130A54
+[2018-05-04 20:16:25] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 20:16:25] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 20:16:25] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Broforce"
+	"TimeSubmitted"		"1525486585"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Game polled D3D11 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0.013383328914642334"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"7.23650264739990234"
+	"StdDevClientBitrate"		"0.318738102912902832"
+	"AvgServerBitrate"		"12856.6650390625"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0.00423422735184431076"
+	"StdDevPingMS"		"0.0163795799016952515"
+	"AvgCaptureMS"		"0.728793621063232422"
+	"StdDevCaptureMS"		"0.150724470615386963"
+	"AvgConvertMS"		"0.00371421338059008121"
+	"StdDevConvertMS"		"0.0067215505987405777"
+	"AvgEncodeMS"		"5.7204136848449707"
+	"StdDevEncodeMS"		"0.531273424625396729"
+	"AvgNetworkMS"		"1.60118222236633301"
+	"StdDevNetworkMS"		"1.68802976608276367"
+	"AvgDecodeMS"		"1.45657622814178467"
+	"StdDevDecodeMS"		"0.44490012526512146"
+	"AvgDisplayMS"		"0.0218608397990465164"
+	"StdDevDisplayMS"		"0.0592316687107086182"
+	"AvgFrameMS"		"17.2300586700439453"
+	"StdDevFrameMS"		"2.22009038925170898"
+	"AvgFPS"		"61.8732147216796875"
+	"StdDevFPS"		"14.1273689270019531"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"746"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 20:16:25] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 20:16:25] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 20:16:25] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 20:16:25] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 20:16:26] >>> Switching video stream from GameOverlay_MovieStream_20140 to Desktop_MovieStream
+[2018-05-04 20:16:26] >>> Capture method set to Desktop DWM NV12 + NVENC H264
+[2018-05-04 20:16:26] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 20:16:26] Changing record window: 00170956
+[2018-05-04 20:16:26] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 20:16:26] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 20:16:26] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:16:28] Changing record window: 00020C80
+[2018-05-04 20:16:28] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 20:16:28] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:16:30] Changing record window: 00170956
+[2018-05-04 20:16:30] Changing record window: 00000000
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 20:16:30] Changing record window: 00090A6C
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:16:30] >>> Capture method set to Steam D3D10 NV12 + NVENC H264
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 20:16:30] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 20:16:33] Over 960 sample audio gap
+[2018-05-04 20:16:37] Audio mix: start=87211472343, returned=357153600
+[2018-05-04 20:16:37] Audio source [System Windows]: init=87211596235, through=357154374, last_start=357153894, mixed=2401920, drop_before=0, drop_after=0
+[2018-05-04 20:17:10] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 20:17:10] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 20:17:10] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 20:17:25] Changing record window: 000A08FC
+[2018-05-04 20:17:25] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:17:25] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Steam Big Picture"
+	"TimeSubmitted"		"1525486645"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Steam D3D10 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"7.4419398307800293"
+	"StdDevClientBitrate"		"0.868448436260223389"
+	"AvgServerBitrate"		"10228.6142578125"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0.00693581346422433853"
+	"StdDevPingMS"		"0.0157641805708408356"
+	"AvgCaptureMS"		"0.659191906452178955"
+	"StdDevCaptureMS"		"0.427092045545578003"
+	"AvgConvertMS"		"0.0111341550946235657"
+	"StdDevConvertMS"		"0.452966511249542236"
+	"AvgEncodeMS"		"5.69960403442382813"
+	"StdDevEncodeMS"		"0.467668980360031128"
+	"AvgNetworkMS"		"1.50782954692840576"
+	"StdDevNetworkMS"		"1.62945747375488281"
+	"AvgDecodeMS"		"1.44904768466949463"
+	"StdDevDecodeMS"		"0.438024312257766724"
+	"AvgDisplayMS"		"0.0243518445640802383"
+	"StdDevDisplayMS"		"0.0669253244996070862"
+	"AvgFrameMS"		"16.4421234130859375"
+	"StdDevFrameMS"		"3.5109565258026123"
+	"AvgFPS"		"62.9596290588378906"
+	"StdDevFPS"		"17.057891845703125"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"733"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 20:17:25] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 20:17:25] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 20:17:25] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 20:17:25] >>> Switching video stream from Desktop_MovieStream to GameOverlay_MovieStream_19508
+[2018-05-04 20:17:26] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 20:17:26] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:17:26] >>> Capture method set to Game polled D3D11 NV12 + NVENC H264
+[2018-05-04 20:17:26] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 20:17:37] Audio mix: start=87211472343, returned=360034080
+[2018-05-04 20:17:37] Audio source [System Windows]: init=87211596235, through=360034854, last_start=360034374, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:17:47] Setting target framerate: 59.94 [timing: game 37.08, capture 0.63, convert 0.00, encode 6.17, network 0.44, decode 1.04, display 0.02 (game)]
+[2018-05-04 20:17:47] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:17:47] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:17:48] Setting target framerate: 59.94 [timing: game 20.07, capture 0.52, convert 0.00, encode 4.86, network 0.00, decode 1.27, display 0.02]
+[2018-05-04 20:17:48] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:17:48] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:18:37] Audio mix: start=87211472343, returned=362914560
+[2018-05-04 20:18:37] Audio source [System Windows]: init=87211596235, through=362915334, last_start=362914854, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:19:24] Setting target framerate: 59.94 [timing: game 72.38, capture 0.43, convert 0.01, encode 6.10, network 0.00, decode 1.24, display 0.02 (game)]
+[2018-05-04 20:19:24] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:19:24] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:19:26] Setting target framerate: 59.94 [timing: game 17.49, capture 0.54, convert 0.00, encode 5.26, network 0.00, decode 1.24, display 0.02]
+[2018-05-04 20:19:26] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:19:26] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:19:37] Audio mix: start=87211472343, returned=365795040
+[2018-05-04 20:19:37] Audio source [System Windows]: init=87211596235, through=365795814, last_start=365795334, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:20:22] Setting target framerate: 59.94 [timing: game 36.10, capture 0.76, convert 0.01, encode 6.07, network 0.05, decode 1.13, display 0.02 (game)]
+[2018-05-04 20:20:22] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:20:22] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:20:23] Setting target framerate: 59.94 [timing: game 22.48, capture 0.58, convert 0.00, encode 5.03, network 0.06, decode 1.31, display 0.03]
+[2018-05-04 20:20:23] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:20:23] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:20:37] Audio mix: start=87211472343, returned=368675040
+[2018-05-04 20:20:37] Audio source [System Windows]: init=87211596235, through=368675814, last_start=368675334, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:21:37] Audio mix: start=87211472343, returned=371555520
+[2018-05-04 20:21:37] Audio source [System Windows]: init=87211596235, through=371556294, last_start=371555814, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:21:54] Setting target framerate: 59.94 [timing: game 125.45, capture 0.12, convert 0.00, encode 5.81, network 0.00, decode 1.57, display 0.02 (game)]
+[2018-05-04 20:21:54] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:21:54] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:21:57] Setting target framerate: 59.94 [timing: game 29.81, capture 0.59, convert 0.00, encode 5.29, network 0.04, decode 1.28, display 0.02]
+[2018-05-04 20:21:57] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:21:57] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:22:37] Audio mix: start=87211472343, returned=374435520
+[2018-05-04 20:22:37] Audio source [System Windows]: init=87211596235, through=374436294, last_start=374435814, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:23:37] Audio mix: start=87211472343, returned=377315520
+[2018-05-04 20:23:37] Audio source [System Windows]: init=87211596235, through=377316294, last_start=377315814, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:24:26] Setting target framerate: 59.94 [timing: game 71.61, capture 0.00, convert 0.00, encode 4.92, network 0.00, decode 1.26, display 0.22 (game)]
+[2018-05-04 20:24:26] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:24:26] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:24:35] Setting target framerate: 59.94 [timing: game 7.50, capture 0.56, convert 0.00, encode 4.76, network 0.00, decode 1.17, display 0.02]
+[2018-05-04 20:24:35] CLIENT: Targeting 59.94 FPS
+[2018-05-04 20:24:35] CLIENT: Got control packet k_EStreamControlSetTargetFramerate
+[2018-05-04 20:24:37] Audio mix: start=87211472343, returned=380195520
+[2018-05-04 20:24:37] Audio source [System Windows]: init=87211596235, through=380196774, last_start=380196294, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:25:37] Audio mix: start=87211472343, returned=383076000
+[2018-05-04 20:25:37] Audio source [System Windows]: init=87211596235, through=383076774, last_start=383076294, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:26:37] Audio mix: start=87211472343, returned=385956480
+[2018-05-04 20:26:37] Audio source [System Windows]: init=87211596235, through=385957254, last_start=385956774, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-04 20:27:37] Audio mix: start=87211472343, returned=388836480
+[2018-05-04 20:27:37] Audio source [System Windows]: init=87211596235, through=388837254, last_start=388836774, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-04 20:27:54] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:27:54] Changing record window: 00000000
+[2018-05-04 20:27:54] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xbb19
+[2018-05-04 20:27:54] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-04 20:27:54] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-04 20:27:54] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Party Panic"
+	"TimeSubmitted"		"1525487274"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Game polled D3D11 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0.19797593355178833"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"7.24676227569580078"
+	"StdDevClientBitrate"		"0.247806861996650696"
+	"AvgServerBitrate"		"10960.0576171875"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0.00204750406555831432"
+	"StdDevPingMS"		"0.00985539983958005905"
+	"AvgCaptureMS"		"0.592542648315429688"
+	"StdDevCaptureMS"		"0.158045172691345215"
+	"AvgConvertMS"		"0.00319972471334040165"
+	"StdDevConvertMS"		"0.00684505561366677284"
+	"AvgEncodeMS"		"5.59009456634521484"
+	"StdDevEncodeMS"		"0.440353751182556152"
+	"AvgNetworkMS"		"1.36519753932952881"
+	"StdDevNetworkMS"		"1.64651572704315186"
+	"AvgDecodeMS"		"1.42066097259521484"
+	"StdDevDecodeMS"		"0.451410174369812012"
+	"AvgDisplayMS"		"0.0212692078202962875"
+	"StdDevDisplayMS"		"0.0536087304353713989"
+	"AvgFrameMS"		"16.783050537109375"
+	"StdDevFrameMS"		"2.41889142990112305"
+	"AvgFPS"		"61.39691162109375"
+	"StdDevFPS"		"13.4192914962768555"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"746"
+	"WasSpectating"		"0"
+}
+
+[2018-05-04 20:27:54] Changing record window: 00090A6C
+[2018-05-04 20:27:54] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 20:27:54] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:27:54] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 20:27:54] >>> Switching video stream from GameOverlay_MovieStream_19508 to Desktop_MovieStream
+[2018-05-04 20:27:54] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-04 20:27:54] >>> Capture method set to Steam D3D10 NV12 + NVENC H264
+[2018-05-04 20:27:54] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-04 20:27:54] CLIENT: Got control packet k_EStreamControlSetActivity
+[2018-05-04 20:27:54] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-04 20:27:56] Over 960 sample audio gap
+[2018-05-04 20:28:36] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:28:37] Audio mix: start=87211472343, returned=391716960
+[2018-05-04 20:28:37] Audio source [System Windows]: init=87211596235, through=391717570, last_start=391717090, mixed=2793600, drop_before=0, drop_after=0
+[2018-05-04 20:29:21] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-04 20:29:21] CLIENT: Got control packet k_EStreamControlSetCursor
+[2018-05-04 20:29:21] Changing record window: 00000000
+[2018-05-04 20:29:21] >>> Switching video stream from Desktop_MovieStream to NONE
+[2018-05-04 20:29:21] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Steam Big Picture"
+	"TimeSubmitted"		"1525487361"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Steam D3D10 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"7.17789125442504883"
+	"StdDevClientBitrate"		"0.944228649139404297"
+	"AvgServerBitrate"		"6260.03515625"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0.00212913309223949909"
+	"StdDevPingMS"		"0.0088084610179066658"
+	"AvgCaptureMS"		"0.593859016895294189"
+	"StdDevCaptureMS"		"0.126453086733818054"
+	"AvgConvertMS"		"0.00301411794498562813"
+	"StdDevConvertMS"		"0.00607570027932524681"
+	"AvgEncodeMS"		"5.36733531951904297"
+	"StdDevEncodeMS"		"0.273386865854263306"
+	"AvgNetworkMS"		"0.985760211944580078"
+	"StdDevNetworkMS"		"1.3295820951461792"
+	"AvgDecodeMS"		"1.24820959568023682"
+	"StdDevDecodeMS"		"0.37120094895362854"
+	"AvgDisplayMS"		"0.0200891420245170593"
+	"StdDevDisplayMS"		"0.0359722189605236053"
+	"AvgFrameMS"		"14.3946819305419922"
+	"StdDevFrameMS"		"3.10935640335083008"
+	"AvgFPS"		"63.6559486389160156"
+	"StdDevFPS"		"18.2042083740234375"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"1"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"733"
+	"WasSpectating"		"0"
+}
+
+
+
+[2018-05-05 17:52:15] Streaming started to Steam Link build 651 at 192.168.1.14:49705, audio channels = 2, MTU = 1468
+[2018-05-05 17:52:15] Streaming quality: k_EStreamQualityBalanced
+[2018-05-05 17:52:15] Streaming bitrate: Automatic
+[2018-05-05 17:52:15] Maximum capture: 1920x1080 59.94 FPS
+[2018-05-05 17:52:15] Video Streaming: enabled
+[2018-05-05 17:52:15] Audio Streaming: enabled
+[2018-05-05 17:52:15] Input Streaming: enabled
+[2018-05-05 17:52:15] =====================================================================
+[2018-05-05 17:52:15] Game: UNKNOWN (0)
+[2018-05-05 17:52:15] Setting target bitrate to 15000 Kbit/s, burst bitrate is 75000 Kbit/s
+[2018-05-05 17:52:15] Recording system audio
+[2018-05-05 17:52:15] Changing record window: 00030964
+[2018-05-05 17:52:15] Recording on device: Speakers (Steam Streaming Speakers)
+[2018-05-05 17:52:15] Audio client mix format:
+[2018-05-05 17:52:15] 	format: 65534
+[2018-05-05 17:52:15] 	channels: 2
+[2018-05-05 17:52:15] 	samples/sec: 48000
+[2018-05-05 17:52:15] 	bytes/sec: 384000
+[2018-05-05 17:52:15] 	alignment: 8
+[2018-05-05 17:52:15] 	bits/sample: 32
+[2018-05-05 17:52:15] 	channel mask: 0x3
+[2018-05-05 17:52:15] 	data format: {00000003-0000-0010-8000-00AA00389B71}
+[2018-05-05 17:52:15] Initializing audio with 2 channels and 48000 samples/sec
+[2018-05-05 17:52:15] Audio mix: start=14694440154, returned=0
+[2018-05-05 17:52:15] Audio source [System Windows]: init=0, through=0, last_start=0, mixed=0, drop_before=0, drop_after=0
+[2018-05-05 17:52:15] >>> Switching video stream from NONE to Desktop_MovieStream
+[2018-05-05 17:52:15] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xb038
+[2018-05-05 17:52:15] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-05 17:52:15] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-05 17:52:15] >>> Capture method set to Steam D3D10 NV12 + NVENC H264
+[2018-05-05 17:52:15] >>> Capture resolution set to 1920x1080
+[2018-05-05 17:52:15] CLIENT: Got control packet k_EStreamControlSetQoS
+[2018-05-05 17:52:15] CLIENT: Sending HID device 28de/1142/0 Valve Software Steam Controller at /dev/hidraw0
+[2018-05-05 17:52:15] CLIENT: Sending HID device 28de/1142/1 Valve Software Steam Controller at /dev/hidraw1
+[2018-05-05 17:52:15] CLIENT: Sending HID device 28de/1142/2 Valve Software Steam Controller at /dev/hidraw2
+[2018-05-05 17:52:15] CLIENT: Sending HID device 28de/1142/3 Valve Software Steam Controller at /dev/hidraw3
+[2018-05-05 17:52:15] CLIENT: Sending HID device 28de/1142/4 Valve Software Steam Controller at /dev/hidraw4
+[2018-05-05 17:52:15] CLIENT: Sending HID device 046d/c534/0 Logitech USB Receiver at /dev/hidraw5
+[2018-05-05 17:52:15] CLIENT: Sending HID device 046d/c534/1 Logitech USB Receiver at /dev/hidraw6
+[2018-05-05 17:52:15] CLIENT: Got control packet k_EStreamControlSetTargetBitrate
+[2018-05-05 17:52:15] CLIENT: Starting audio stream: frequency=48000, channels=2
+[2018-05-05 17:52:15] CLIENT: SetAudioInputStream 0xb7045ff8
+[2018-05-05 17:52:15] CLIENT: OnInputStreamChanged 0 0
+[2018-05-05 17:52:15] CLIENT: Initialized audio decoder: codec=3, sample rate=48000, channels=2
+[2018-05-05 17:52:15] CLIENT: Got control packet k_EStreamControlStartAudioData
+[2018-05-05 17:52:15] CLIENT: Got control packet k_EStreamControlSetSpectatorMode
+[2018-05-05 17:52:15] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-05 17:52:15] >>> Client video decoder set to Marvell hardware decoding
+[2018-05-05 17:52:15] CLIENT: Video size: 1920x1080, output size: 1920x1080
+[2018-05-05 17:52:15] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-05 17:52:15] CLIENT: Texture rect: 1920x1080 at 0,0
+[2018-05-05 17:52:15] CLIENT: Marvell hardware decoding
+[2018-05-05 17:52:15] CLIENT: Got control packet k_EStreamControlStartVideoData
+[2018-05-05 17:52:15] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-05 17:52:15] CLIENT: Video overflow (289.09ms queued), requesting keyframe synchronization
+[2018-05-05 17:52:15] CLIENT: Marking frame 4 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 17:52:15] CLIENT: Marking frame 5 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 17:52:15] CLIENT: Marking frame 6 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 17:52:15] CLIENT: Marking frame 7 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 17:52:15] CLIENT: Marking frame 8 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 17:52:15] CLIENT: Video size: 1920x1080, output size: 1920x1080
+[2018-05-05 17:52:15] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-05 17:52:15] CLIENT: Texture rect: 1920x1080 at 0,0
+[2018-05-05 17:52:15] CLIENT: Marking frame 1 complete with status k_EStreamFrameResultDroppedLate
+[2018-05-05 17:52:15] CLIENT: Marking frame 2 complete with status k_EStreamFrameResultDroppedLate
+[2018-05-05 17:52:15] CLIENT: Marking frame 3 complete with status k_EStreamFrameResultDroppedLate
+[2018-05-05 17:52:15] CLIENT: Flushing audio, 104 ms queued, 50 ms maximum, delivery delay = 0
+[2018-05-05 17:52:15] CLIENT: Stopped flushing audio (flushing time complete)
+[2018-05-05 17:52:18] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-05 17:52:18] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-05 17:52:48] Over 960 sample audio gap
+[2018-05-05 17:53:15] Audio mix: start=14694440154, returned=2882880
+[2018-05-05 17:53:15] Audio source [System Windows]: init=14694514485, through=2883724, last_start=2883244, mixed=1543200, drop_before=0, drop_after=0
+[2018-05-05 17:54:15] Audio mix: start=14694440154, returned=5762880
+[2018-05-05 17:54:15] Audio source [System Windows]: init=14694514485, through=5764204, last_start=5763724, mixed=2880480, drop_before=0, drop_after=0
+[2018-05-05 17:55:15] Audio mix: start=14694440154, returned=8643360
+[2018-05-05 17:55:15] Audio source [System Windows]: init=14694514485, through=8644204, last_start=8643724, mixed=2880000, drop_before=0, drop_after=0
+[2018-05-05 17:55:16] CLIENT: Got control packet k_EStreamControlSystemSuspend
+[2018-05-05 17:55:16] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Steam Big Picture"
+	"TimeSubmitted"		"1525564516"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Steam D3D10 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"2.84871840476989746"
+	"StdDevClientBitrate"		"5.61606645584106445"
+	"AvgServerBitrate"		"8952.35546875"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0.0141443833708763123"
+	"StdDevPingMS"		"0.0574611946940422058"
+	"AvgCaptureMS"		"0.81282508373260498"
+	"StdDevCaptureMS"		"0.194431811571121216"
+	"AvgConvertMS"		"0.00425936561077833176"
+	"StdDevConvertMS"		"0.00701819267123937607"
+	"AvgEncodeMS"		"6.03260898590087891"
+	"StdDevEncodeMS"		"0.459054529666900635"
+	"AvgNetworkMS"		"2.00215792655944824"
+	"StdDevNetworkMS"		"1.79729211330413818"
+	"AvgDecodeMS"		"1.37198817729949951"
+	"StdDevDecodeMS"		"0.407548308372497559"
+	"AvgDisplayMS"		"0.0220188740640878677"
+	"StdDevDisplayMS"		"0.0548933260142803192"
+	"AvgFrameMS"		"16.5932865142822266"
+	"StdDevFrameMS"		"2.5994563102722168"
+	"AvgFPS"		"63.5530967712402344"
+	"StdDevFPS"		"18.1113986968994141"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"0"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"746"
+	"WasSpectating"		"0"
+}
+
+[2018-05-05 18:25:58] Streaming started to Steam Link build 651 at 192.168.1.14:40531, audio channels = 2, MTU = 1468
+[2018-05-05 18:25:58] Streaming quality: k_EStreamQualityBalanced
+[2018-05-05 18:25:58] Streaming bitrate: Automatic
+[2018-05-05 18:25:58] Maximum capture: 1920x1080 59.94 FPS
+[2018-05-05 18:25:58] Video Streaming: enabled
+[2018-05-05 18:25:58] Audio Streaming: enabled
+[2018-05-05 18:25:58] Input Streaming: enabled
+[2018-05-05 18:25:58] =====================================================================
+[2018-05-05 18:25:58] Game: UNKNOWN (0)
+[2018-05-05 18:25:58] Setting target bitrate to 15000 Kbit/s, burst bitrate is 75000 Kbit/s
+[2018-05-05 18:25:58] Recording system audio
+[2018-05-05 18:25:58] Changing record window: 00160B40
+[2018-05-05 18:25:58] Recording on device: Speakers (Steam Streaming Speakers)
+[2018-05-05 18:25:58] Audio client mix format:
+[2018-05-05 18:25:58] 	format: 65534
+[2018-05-05 18:25:58] 	channels: 2
+[2018-05-05 18:25:58] 	samples/sec: 48000
+[2018-05-05 18:25:58] 	bytes/sec: 384000
+[2018-05-05 18:25:58] 	alignment: 8
+[2018-05-05 18:25:58] 	bits/sample: 32
+[2018-05-05 18:25:58] 	channel mask: 0x3
+[2018-05-05 18:25:58] 	data format: {00000003-0000-0010-8000-00AA00389B71}
+[2018-05-05 18:25:58] Initializing audio with 2 channels and 48000 samples/sec
+[2018-05-05 18:25:58] CDesktopCaptureDWM: Reinitializing D3D for adapter 0xb038
+[2018-05-05 18:25:58] Video adapter: NVIDIA GeForce GTX 980, vendor ID: 0x10de, device ID: 0x13c0
+[2018-05-05 18:25:58] Audio mix: start=16717586671, returned=0
+[2018-05-05 18:25:58] Audio source [System Windows]: init=0, through=0, last_start=0, mixed=0, drop_before=0, drop_after=0
+[2018-05-05 18:25:58] CDesktopCaptureDWM: desktop duplication enabled
+[2018-05-05 18:25:58] >>> Switching video stream from NONE to Desktop_MovieStream
+[2018-05-05 18:25:58] CLIENT: Sending HID device 28de/1142/0 Valve Software Steam Controller at /dev/hidraw0
+[2018-05-05 18:25:58] CLIENT: Sending HID device 28de/1142/1 Valve Software Steam Controller at /dev/hidraw1
+[2018-05-05 18:25:58] CLIENT: Sending HID device 28de/1142/2 Valve Software Steam Controller at /dev/hidraw2
+[2018-05-05 18:25:58] CLIENT: Sending HID device 28de/1142/3 Valve Software Steam Controller at /dev/hidraw3
+[2018-05-05 18:25:58] CLIENT: Sending HID device 28de/1142/4 Valve Software Steam Controller at /dev/hidraw4
+[2018-05-05 18:25:58] CLIENT: Sending HID device 046d/c534/0 Logitech USB Receiver at /dev/hidraw5
+[2018-05-05 18:25:58] CLIENT: Sending HID device 046d/c534/1 Logitech USB Receiver at /dev/hidraw6
+[2018-05-05 18:25:58] CLIENT: Got control packet k_EStreamControlSetQoS
+[2018-05-05 18:25:58] CLIENT: Got control packet k_EStreamControlSetTargetBitrate
+[2018-05-05 18:25:58] CLIENT: Starting audio stream: frequency=48000, channels=2
+[2018-05-05 18:25:58] CLIENT: SetAudioInputStream 0xb6ffddf8
+[2018-05-05 18:25:58] CLIENT: OnInputStreamChanged 0 0
+[2018-05-05 18:25:58] CLIENT: Initialized audio decoder: codec=3, sample rate=48000, channels=2
+[2018-05-05 18:25:58] CLIENT: Got control packet k_EStreamControlStartAudioData
+[2018-05-05 18:25:58] CLIENT: Got control packet k_EStreamControlSetSpectatorMode
+[2018-05-05 18:25:58] CLIENT: Got control packet k_EStreamControlSetTitle
+[2018-05-05 18:25:58] CLIENT: Got control packet k_EStreamControlSetIcon
+[2018-05-05 18:25:58] CLIENT: Got control packet k_EStreamControlHideCursor
+[2018-05-05 18:25:58] >>> Capture method set to Steam D3D10 NV12 + NVENC H264
+[2018-05-05 18:25:58] >>> Capture resolution set to 1920x1080
+[2018-05-05 18:25:59] >>> Client video decoder set to Marvell hardware decoding
+[2018-05-05 18:25:59] CLIENT: Video size: 1920x1080, output size: 1920x1080
+[2018-05-05 18:25:59] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-05 18:25:59] CLIENT: Texture rect: 1920x1080 at 0,0
+[2018-05-05 18:25:59] CLIENT: Marvell hardware decoding
+[2018-05-05 18:25:59] CLIENT: Got control packet k_EStreamControlStartVideoData
+[2018-05-05 18:25:59] CLIENT: Got control packet k_EStreamControlVideoEncoderInfo
+[2018-05-05 18:25:59] CLIENT: Video overflow (177.66ms queued), requesting keyframe synchronization
+[2018-05-05 18:25:59] CLIENT: Video size: 1920x1080, output size: 1920x1080
+[2018-05-05 18:25:59] CLIENT: Video rect: 1920x1080 at 0,0
+[2018-05-05 18:25:59] CLIENT: Texture rect: 1920x1080 at 0,0
+[2018-05-05 18:25:59] CLIENT: Marking frame 5 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 18:25:59] CLIENT: Marking frame 6 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 18:25:59] CLIENT: Marking frame 7 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 18:25:59] CLIENT: Marking frame 8 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 18:25:59] CLIENT: Marking frame 9 complete with status k_EStreamFrameResultDroppedReset
+[2018-05-05 18:25:59] CLIENT: Marking frame 1 complete with status k_EStreamFrameResultDroppedLate
+[2018-05-05 18:26:31] Over 960 sample audio gap
+[2018-05-05 18:26:34] CLIENT: Got control packet k_EStreamControlSystemSuspend
+[2018-05-05 18:26:34] "SessionStats"
+{
+	"ClientDeviceID"		"Steam Link"
+	"ClientDeviceVersionID"		"build 651"
+	"GameNameID"		"Steam Big Picture"
+	"TimeSubmitted"		"1525566394"
+	"ResolutionX"		"1920"
+	"ResolutionY"		"1080"
+	"CaptureDescriptionID"		"Steam D3D10 NV12 + NVENC H264"
+	"DecoderDescriptionID"		"Marvell hardware decoding"
+	"BandwidthLimit"		"15000"
+	"FramerateLimit"		"0"
+	"SlowGamePercent"		"0"
+	"SlowCapturePercent"		"0"
+	"SlowConvertPercent"		"0"
+	"SlowEncodePercent"		"0"
+	"SlowNetworkPercent"		"0"
+	"SlowDecodePercent"		"0"
+	"SlowDisplayPercent"		"0"
+	"AvgClientBitrate"		"5.14422178268432617"
+	"StdDevClientBitrate"		"8.99466800689697266"
+	"AvgServerBitrate"		"6767.21826171875"
+	"StdDevServerBitrate"		"0"
+	"AvgLinkBandwidth"		"100000.0078125"
+	"AvgPingMS"		"0"
+	"StdDevPingMS"		"0"
+	"AvgCaptureMS"		"0.783676207065582275"
+	"StdDevCaptureMS"		"0.262091159820556641"
+	"AvgConvertMS"		"0.0205801296979188919"
+	"StdDevConvertMS"		"0.756255984306335449"
+	"AvgEncodeMS"		"5.96320104598999023"
+	"StdDevEncodeMS"		"0.444554388523101807"
+	"AvgNetworkMS"		"4.14297151565551758"
+	"StdDevNetworkMS"		"5.1257176399230957"
+	"AvgDecodeMS"		"1.29038906097412109"
+	"StdDevDecodeMS"		"0.373929113149642944"
+	"AvgDisplayMS"		"0.0195112396031618118"
+	"StdDevDisplayMS"		"0.0321763940155506134"
+	"AvgFrameMS"		"21.3932323455810547"
+	"StdDevFrameMS"		"12.140894889831543"
+	"AvgFPS"		"63.9670028686523438"
+	"StdDevFPS"		"19.1332454681396484"
+	"BigPicture"		"1"
+	"KeyboardMouseInput"		"0"
+	"GameControllerInput"		"1"
+	"XBox360ControllerInput"		"0"
+	"XBoxOneControllerInput"		"1"
+	"PS3ControllerInput"		"0"
+	"PS4ControllerInput"		"0"
+	"OtherControllerInput"		"0"
+	"SteamControllerInput"		"0"
+	"GameControllerVID"		"1118"
+	"GameControllerPID"		"746"
+	"WasSpectating"		"0"
+}
+
